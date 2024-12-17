@@ -1,0 +1,6 @@
+/*
+
+make an array and put the names of your classmates as values
+print those values using a for loop
+
+*/
